@@ -5,19 +5,19 @@ ignore:
   'npm:braces:20180219':
     - '@angular/compiler-cli > chokidar > anymatch > micromatch > braces':
         reason: None given
-        expires: '2018-09-26T08:17:18.887Z'
+        expires: '2018-09-26T08:24:51.356Z'
   'npm:chownr:20180731':
     - '@angular-devkit/build-angular > copy-webpack-plugin > cacache > chownr':
         reason: None given
-        expires: '2018-09-26T08:17:18.889Z'
+        expires: '2018-09-26T08:24:51.357Z'
     - '@angular-devkit/build-angular > uglifyjs-webpack-plugin > cacache > chownr':
         reason: None given
-        expires: '2018-09-26T08:17:18.889Z'
+        expires: '2018-09-26T08:24:51.358Z'
     - '@angular-devkit/build-angular > webpack > uglifyjs-webpack-plugin > cacache > chownr':
         reason: None given
-        expires: '2018-09-26T08:17:18.889Z'
+        expires: '2018-09-26T08:24:51.359Z'
   'npm:jasmine-core:20180216':
     - protractor > jasmine > jasmine-core:
         reason: None given
-        expires: '2018-09-26T08:17:18.890Z'
+        expires: '2018-09-26T08:24:51.359Z'
 patch: {}
